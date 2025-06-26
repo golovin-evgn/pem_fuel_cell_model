@@ -1,0 +1,27 @@
+# Generated unittest data
+res/unittests/*.mat
+
+# Matlab
+*.asv
+*.m~
+*.slxc
+
+# Matlab codegen
+/codegen
+*.prj
+*.mex*
+
+# Dolphin file manager
+.directory
+
+# Latex
+*.aux
+*.blg
+*.bbl
+*.dvi
+*.fdb_latexmk
+*.fls 
+*.log
+*.out
+*.synctex.gz
+*.toc
